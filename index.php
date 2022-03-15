@@ -9,7 +9,7 @@
             <li><a href="/LT3/index.html">LEARNING TASK 3</a></li>
        </ul>
        </body>
-    <li><a href="index.php" target="_blank"> HOME </a></li>
+    <li><a href="index.php" target="_blank"> LEARNING TASK 2 </a></li>
     <li><a href="Egg Fried Rice.html" target= "_blank"> Egg Fried Rice </a> </li>
     <li><a href="Pineapple Chicken.html" target= "_blank"> Pineapple Chicken </a> </li>
     <li><a href="Basic Pasta.html" target= "_blank"> Basic Pasta </a> </li>

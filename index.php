@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
-     <head>
-       <title>My Home Page</title>
      </head>
      <body>
        <h1> Welcome to My Website! Hannah :)</h1>
@@ -11,10 +9,6 @@
             <li><a href="/LT3/index.html">LEARNING TASK 3</a></li>
        </ul>
        </body>
-    
-</html>
-  <h1> Welcome to My Website! I am Hannah! </h1>
-  <ul>
     <li><a href="index.php" target="_blank"> HOME </a></li>
     <li><a href="Egg Fried Rice.html" target= "_blank"> Egg Fried Rice </a> </li>
     <li><a href="Pineapple Chicken.html" target= "_blank"> Pineapple Chicken </a> </li>

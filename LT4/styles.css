@@ -1,0 +1,38 @@
+body{
+    background-image: url(background.jpg)
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover; 
+}
+
+#wrapper{
+    width: 1024px;
+    min-height: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    
+}
+
+#content{
+    width: 90%;
+    min-height: 600px;
+    background-color: #D3D3D3  
+}
+
+h1{
+   font-family: 'BIZ UDPMincho', serif;
+    text-align: center 
+    font-size: 15px; 
+
+}
+
+h4{
+     font-family: 'Inter', sans-serif;
+  
+}
+
+
+p{
+    font-family: 'Lora', serif;
+   
+}
